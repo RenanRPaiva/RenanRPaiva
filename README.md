@@ -1,4 +1,4 @@
-### Ola! Me chamo Renan Paiva.
+### Oi! Me chamo Renan Paiva.
 
 <div align="center">
   <a href="https://github.com/RenanRPaiva">
