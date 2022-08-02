@@ -1,5 +1,14 @@
-### Oi! Me chamo Renan Paiva.
+# Oi! Me chamo Renan Paiva.
 
+Estou no caminho do desenvolvedor Full Stack, mas hoje já faço um Front-end.👨🏻‍🎓
+
+##
+
+Comecei em outra área e busco hoje me encontrar na programação, nessa mudança eu já faço uns projetos pessoais. Estou no momento na pós graduação em Desenvolvedor Full Stack (Bootcamp) no Instituto INFNET.
+
+🌎 Sou do Rio de Janeiro / RJ.
+
+##
 <div align="center">
   <a href="https://github.com/RenanRPaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanrpaiva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
