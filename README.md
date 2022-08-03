@@ -32,12 +32,12 @@ Comecei em outra área e busco hoje me encontrar na programação, nessa mudanç
 
 ##
 
-<div> 
+<div>
   <a href = "https://wa.me/5521996227313" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-r-s-paiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/renan.rodrigues.3954546" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"</a>
   <a href="https://www.instagram.com/renanrpaiva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/RenanPaiva_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/RenanPaiva_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/renan.paiva1" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   
    ![Snake animation](https://github.com/renanrpaiva/renanrpaiva/blob/output/github-contribution-grid-snake.svg) 
