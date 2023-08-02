@@ -1,7 +1,5 @@
 # Oi! Me chamo Renan Paiva.
 
-##
-
 Comecei em outra área e busco hoje me encontrar na programação, nessa mudança eu já faço uns projetos pessoais.
 
 🌎 Sou do Rio de Janeiro / RJ.
