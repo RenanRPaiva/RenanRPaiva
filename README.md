@@ -1,10 +1,8 @@
 # Oi! Me chamo Renan Paiva.
 
-Estou no caminho do desenvolvedor Full Stack, mas hoje já faço um Front-end.👨🏻‍🎓
-
 ##
 
-Comecei em outra área e busco hoje me encontrar na programação, nessa mudança eu já faço uns projetos pessoais. Estou no momento na pós graduação em Desenvolvedor Full Stack (Bootcamp) no Instituto INFNET.
+Comecei em outra área e busco hoje me encontrar na programação, nessa mudança eu já faço uns projetos pessoais.
 
 🌎 Sou do Rio de Janeiro / RJ.
 
